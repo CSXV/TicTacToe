@@ -1,0 +1,10 @@
+C:\MALIK DISC\M'X\Coding\DotNet\test\bin\Debug\test.exe.config
+C:\MALIK DISC\M'X\Coding\DotNet\test\bin\Debug\test.exe
+C:\MALIK DISC\M'X\Coding\DotNet\test\bin\Debug\test.pdb
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.Properties.Resources.resources
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.csproj.GenerateResource.cache
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.exe
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.pdb
+C:\MALIK DISC\M'X\Coding\DotNet\test\obj\Debug\test.Form1.resources
